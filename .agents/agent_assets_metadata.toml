@@ -21,3 +21,10 @@ uri = "file://attached_assets/mastering_french_spanish_cooking_phase3_foundation
 type = "word_document"
 title = "Mastering the Art of French & Spanish Cooking — Phase 3 Foundations"
 description = "The complete Phase 3 manuscript covering kitchen equipment, knife skills, cooking techniques, flavor fundamentals, stocks, foundational preparations, and ingredient fundamentals."
+
+[[outputs]]
+id = "JsK_4LI0z8sYrb-wXOvjl"
+uri = "file://attached_assets/mastering_french_spanish_cooking_phase5_spanish_cuisine.docx"
+type = "word_document"
+title = "Mastering French & Spanish Cooking — Phase 5"
+description = "Phase 5 Spanish cuisine section covering Chapters 18–27, with regional context, ingredients, tapas, rice dishes, seafood, meat, vegetables, breads, pastries, and desserts."
