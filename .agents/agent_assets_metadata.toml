@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "ZYWvbLJ203eWeScGBB06B"
+uri = "file://attached_assets/mastering_french_spanish_cooking_phase1_blueprint.docx"
+type = "word_document"
+title = "Mastering the Art of French & Spanish Cooking — Phase 1 Blueprint"
+description = "A professionally formatted Word document containing the complete Phase 1 blueprint and the original uploaded master prompt as an appendix."
